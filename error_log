@@ -1,0 +1,141 @@
+[30-Aug-2016 21:36:37 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'geoweb_ww'@'localhost' (using password: YES)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[22-Feb-2017 18:25:08 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[11-Mar-2017 13:04:38 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[11-Mar-2017 13:04:40 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[20-Apr-2017 11:00:08 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[30-Apr-2017 19:03:55 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'geoweb_ww'@'localhost' (using password: YES)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[30-Apr-2017 19:09:28 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'geoweb_ww'@'localhost' (using password: YES)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[30-Apr-2017 19:09:36 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'geoweb_ww'@'localhost' (using password: YES)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[30-Oct-2017 08:06:38 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[07-Jan-2018 09:43:04 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[07-Jan-2018 09:43:09 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[29-Jun-2018 19:19:53 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[07-Jul-2018 09:30:40 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[07-Jul-2018 09:31:02 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[07-Aug-2018 01:19:41 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/template/header.php(14): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/lib/functions/load/page.php(31): lib\template\header->__construct()
+#3 /home/geoweb/ww.404.ge/index.php(20): lib\functions\load\page->bootstap()
+#4 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[21-Aug-2018 09:34:27 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[21-Aug-2018 09:35:00 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[21-Aug-2018 09:44:28 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[21-Sep-2018 13:59:54 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
+[27-Sep-2018 00:28:20 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/geoweb/ww.404.ge/lib/database/connection.php:18
+Stack trace:
+#0 /home/geoweb/ww.404.ge/lib/database/connection.php(18): PDO->__construct('mysql:host=loca...', 'geoweb_ww', '_$%k3!)l.Z]S!q+...')
+#1 /home/geoweb/ww.404.ge/lib/functions/load/page.php(18): lib\database\connection->conn()
+#2 /home/geoweb/ww.404.ge/index.php(19): lib\functions\load\page->__construct()
+#3 {main}
+  thrown in /home/geoweb/ww.404.ge/lib/database/connection.php on line 18
